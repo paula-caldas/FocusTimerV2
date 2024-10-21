@@ -101,4 +101,98 @@ Aqui está um resumo em forma de lista das funcionalidades e conceitos discutido
 https://github.com/user-attachments/assets/83bb5617-de8a-43cd-9771-29c15d364092
 
 
+# Focus Timer V2
+
+This page is a web application that implements a Pomodoro Timer.
+
+
+## Features
+
+
+1. **Countdown**
+   - Start and pause the timer countdown.
+
+2. **Time setting**
+   - Allow the user to adjust the minutes directly on the interface.
+
+3. **Timer restart**
+   - Reset the timer to the initial time.
+
+4. **Music Alternation**
+   - Start and stop the background music.
+
+5. **Mode Switching**
+   - Switch between light and dark modes.
+
+6. **Dynamic Display Update**
+   - Update the minutes and seconds in real time during the countdown.
+
+7. **Accessibility**
+   - Inclusion of alternative texts for better accessibility and screen reader readability.
+
+8. **Sound feedback**
+   - Play sounds when you press buttons and when you finish counting.
+
+9. **Visual effect on buttons**
+   - Visual effects on buttons to improve interactivity (hover, clicks).
+
+10. **State maintenance**
+   - Manage the timer status (running, paused, configured). 
+
+These functionalities provide an interactive and efficient user experience for managing work and rest time.
+## Learning
+
+What did you learn from building this project? 
+
+
+1. **Meta Description**
+   - Improves visibility in Google searches.
+
+2. **Favicon**
+   - Add an icon to the browser using the appropriate tag.
+ 
+3. **Phosphor Icons**
+   - Import icons into the application.
+
+4. **Utility Class**
+   - Reusable classes that apply a single style.
+
+5. **Transparent Background Color**
+   - Use on buttons to make the background transparent.
+
+6. **Pseudo Class :not()**
+   - Selects elements that do not match a specific selector.
+
+7. **Accessibility and Light/Dark Mode**
+   - Use classes for elements that are only visible to screen readers.
+
+8. **Click and Control Events**
+   - Log events for button interactions.
+
+9. **Initial Application Status**
+   - Set initial values for minutes, seconds and states.
+
+10. **Timer functions**
+    - Functions for starting, pausing and restarting a stopwatch.
+
+11. **Use of Document.querySelector and getElementById**
+    - Select DOM elements for manipulation.
+
+12. **Handling HTML classes**
+    - Use `classList` to add or remove classes from the root element.
+
+13. **Null Coalescence Operator (??)**
+    - Provide default values for variables.
+
+14. **PadStart() method**
+    - Add characters to the beginning of a string until it reaches a specified length.
+
+15. **Use of setTimeout()**
+    - Set a timer to execute functions after a period of time.
+ 
+16. **Appeal**
+    - Functions that call themselves in intervals.
+
+
+
 
