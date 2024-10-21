@@ -190,7 +190,7 @@ What did you learn from building this project?
 15. **Use of setTimeout()**
     - Set a timer to execute functions after a period of time.
  
-16. **Appeal**
+16. **Callnback functions**
     - Functions that call themselves in intervals.
 
 
